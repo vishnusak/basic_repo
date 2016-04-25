@@ -1,0 +1,6 @@
+1 - mkdir basic_repo
+2 - echo "# basic_repo" >> README.md
+3 - git add .
+4 - git commit -m "initial commit"
+5 - git remote add origin https://github.com/vishnusak/basic_repo.git
+6 - git push origin master
